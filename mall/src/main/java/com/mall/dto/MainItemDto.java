@@ -1,0 +1,30 @@
+package com.mall.dto;
+
+import com.querydsl.core.annotations.QueryProjection;
+import lombok.Getter;
+import lombok.Setter;
+import org.springframework.data.jpa.repository.Query;
+
+@Getter
+@Setter
+public class MainItemDto {
+
+    private Long id;
+
+    private String itemNm;
+
+    private String itemDetail;
+
+    private String imgUrl;
+
+    private Integer price;
+
+    @QueryProjection // 상품 조회시 DTO 객체로 결과값을 받음
+    public MainItemDto(Long id, String itemNm, String itemDetail, String imgUrl, Integer price){
+        this.id = id;
+        this.itemNm = itemNm;
+        this.itemDetail = itemDetail;
+        this.imgUrl = imgUrl;
+        this.price = price;
+    }
+}
