@@ -23,7 +23,8 @@
 
 ## 권한 Admin(관리자) / User(일반 사용자)
 ### 코드 - 프론트 영역 
-![권한별 설계 프론트](https://user-images.githubusercontent.com/96603612/208228469-fe648233-7bda-43c9-82d5-b3c484f275ae.png)<br>
+![image](https://user-images.githubusercontent.com/96603612/208228979-d9294ae1-fc42-4b27-bea5-a6c143250c2a.png)<br>
+관리자만 볼 수 있는 페이지 설계 
 ### 관리자만 보이는 메뉴 설계 : 상품등록, 상품관리<br>
 #### 상품관리 화면
 ![상품등록 - 관리자2](https://user-images.githubusercontent.com/96603612/208228786-ff64c853-f0d3-43aa-ab81-e17183c757b3.png)<br>
