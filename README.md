@@ -12,6 +12,8 @@
 스프링부트 쇼핑몰프로젝트 with JPA
 
 # 화면설계
+## 요약 글
+https://blog.naver.com/lears98/222951266580
 ## 메인화면
 ![main](https://user-images.githubusercontent.com/96603612/208228230-15486356-901d-4816-a4c2-97bdbd512b72.png)
 
