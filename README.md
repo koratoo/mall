@@ -24,10 +24,11 @@
 ## 권한 Admin(관리자) / User(일반 사용자)
 ### 코드 - 프론트 영역 
 ![권한별 설계 프론트](https://user-images.githubusercontent.com/96603612/208228469-fe648233-7bda-43c9-82d5-b3c484f275ae.png)<br>
--관리자만 보이는 메뉴 설계 : 상품등록, 상품관리<br>
-
+### 관리자만 보이는 메뉴 설계 : 상품등록, 상품관리<br>
+#### 상품등록 / 관리
 ![상품등록 - 관리자2](https://user-images.githubusercontent.com/96603612/208228786-ff64c853-f0d3-43aa-ab81-e17183c757b3.png)<br>
 ![상품등록-관리자](https://user-images.githubusercontent.com/96603612/208228787-007076d9-db9d-4846-9231-f683cda04b04.png)<br>
+### 등록시 화면
 ![상품등록시 - 등록관리](https://user-images.githubusercontent.com/96603612/208228788-c2eba6b8-9066-4836-a9dc-777e84b75199.png)<br>
 ![상품 등록시 - 메인](https://user-images.githubusercontent.com/96603612/208228784-f7499924-414f-49cc-bca9-db114e779bc7.png)
 -공통 : 장바구니, 주문목록 등
