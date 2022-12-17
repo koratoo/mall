@@ -14,6 +14,9 @@
 # 화면설계
 ## 요약 글
 https://blog.naver.com/lears98/222951266580
+## 작업내용 - 일자별/회차별 포스팅
+![작업내용 포스팅](https://user-images.githubusercontent.com/96603612/208229407-7f22b6fa-5824-4615-bc37-229d94782178.png)
+
 ## 메인화면
 ![main](https://user-images.githubusercontent.com/96603612/208228230-15486356-901d-4816-a4c2-97bdbd512b72.png)
 
