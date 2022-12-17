@@ -37,8 +37,9 @@
 ![상품 등록시 - 메인](https://user-images.githubusercontent.com/96603612/208228784-f7499924-414f-49cc-bca9-db114e779bc7.png)
 -공통 : 장바구니, 주문목록 등
 ### 코드 - 백엔드 영역
+#### Admin 입력시 : 관리자로 회원가입
+
 ![권한별 설계1](https://user-images.githubusercontent.com/96603612/208228472-8cfb0c25-07dc-4bfe-bce1-e8de90861acf.png)
-#### Admin 입력시 : 관리자로 회원가입<br>
 #### User 입력시 : 일반 사용자로 회원가입 
 ![image](https://user-images.githubusercontent.com/96603612/208229092-55e77442-fe49-495f-b7bb-26d2d70b1d6f.png)
 
