@@ -38,8 +38,10 @@
 -공통 : 장바구니, 주문목록 등
 ### 코드 - 백엔드 영역
 ![권한별 설계1](https://user-images.githubusercontent.com/96603612/208228472-8cfb0c25-07dc-4bfe-bce1-e8de90861acf.png)
--Admin 입력시 : 관리자로 회원가입<br>
--User 입력시 : 일반 사용자로 회원가입 
+####Admin 입력시 : 관리자로 회원가입<br>
+####User 입력시 : 일반 사용자로 회원가입 
+![image](https://user-images.githubusercontent.com/96603612/208229092-55e77442-fe49-495f-b7bb-26d2d70b1d6f.png)
+
 
 # ERD
 ![쇼핑몰 erd](https://user-images.githubusercontent.com/96603612/208227946-d9ccbd24-2b8a-4e16-b764-1b47ac980d88.png)
