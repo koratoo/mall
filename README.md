@@ -24,6 +24,8 @@
 ## 권한 Admin(관리자) / User(일반 사용자)
 ### 코드 - 프론트 영역 
 ![권한별 설계 프론트](https://user-images.githubusercontent.com/96603612/208228469-fe648233-7bda-43c9-82d5-b3c484f275ae.png)
+관리자만 보이는 메뉴 설계 : 상품등록, 상품관리<br>
+공통 : 장바구니, 주문목록 등
 ### 코드 - 백엔드 영역
 ![권한별 설계1](https://user-images.githubusercontent.com/96603612/208228472-8cfb0c25-07dc-4bfe-bce1-e8de90861acf.png)
 Admin 입력시 : 관리자로 회원가입
