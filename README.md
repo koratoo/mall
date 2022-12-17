@@ -1,4 +1,4 @@
-# Shopping Mall
+# Shopping Mall 토이프로젝트!
 ![메인 2](https://user-images.githubusercontent.com/96603612/208229491-2b077c39-2d49-4800-8144-da3eca2a29ec.png)
 
 ## 쇼핑몰 프로젝트
