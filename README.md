@@ -1,15 +1,15 @@
 # Shopping Mall 토이프로젝트
 ![메인 2](https://user-images.githubusercontent.com/96603612/208229491-2b077c39-2d49-4800-8144-da3eca2a29ec.png)
 
-## 쇼핑몰 프로젝트
+### 쇼핑몰 프로젝트
 기간 1주일
 
-## 사용기술
+### 사용기술
 1.자바,HTML,CSS,JAVASCRIPT<br>
 2.스프링부트, JPA, MySQL, Thymeleaf, BootStrap<br>
 3.인텔리제이
 
-## 참고서적
+### 참고서적
 스프링부트 쇼핑몰프로젝트 with JPA
 
 # 화면설계
